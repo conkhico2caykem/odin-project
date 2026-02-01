@@ -1,0 +1,3 @@
+[submodule "odin-project-css-exercises"]
+	path = odin-project-css-exercises
+	url = git@github.com:conkhico2caykem/odin-project-css-exercises.git
